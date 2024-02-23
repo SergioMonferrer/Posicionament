@@ -1,5 +1,5 @@
 body {
-    background:url('../imagenes/ferrari.png');
+    background:url('ferrari.png');
     background-position-x: center;
 	background-position-y: center;
 	background-size: cover;
